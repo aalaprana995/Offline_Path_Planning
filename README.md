@@ -24,5 +24,8 @@ For our project purpose we are using circular robot.
 
 # Visualization
 ## A* Exploration
+![Screenshot from 2021-10-31 15-18-02](https://user-images.githubusercontent.com/93336207/139598324-59e9c2b0-7dc9-49f0-acd7-012cf1601888.png)
+
 
 ## Dijkstra's Exploration
+![Screenshot from 2021-10-31 14-49-17](https://user-images.githubusercontent.com/93336207/139598328-0ddc5026-8a4c-4735-8b47-e7a90c0556ac.png)
