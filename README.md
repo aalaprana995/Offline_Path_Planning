@@ -18,7 +18,9 @@ There are four obstacles formed using algebraic expression and concepts of geome
 The obstacle space is modified based on the robot size to avoid collision and investigate results for point size and rigid robots.
 For our project purpose we are using circular robot.
 
+![Screenshot from 2021-10-31 14-53-59](https://user-images.githubusercontent.com/93336207/139597574-8b115a41-36f7-4bdd-a208-082df8f8e3eb.png)
 
+![Screenshot from 2021-10-31 14-50-28](https://user-images.githubusercontent.com/93336207/139597474-53dfdefb-6285-40e6-ab53-e2aa71f7d9ea.png)
 
 # Visualization
 ## A* Exploration
